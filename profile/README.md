@@ -1,5 +1,7 @@
 # ALIE (Asistente de Lenguaje Inteligente para la Educación)
 
+![AlieBanner](https://github.com/user-attachments/assets/3e4be967-8bb6-43ef-bf94-fe5e49cab722)
+
 ALIE es una solución integral desarrollada para mejorar la gestión de consultas académicas en la Pontificia Universidad Javeriana, sede Bogotá. Utilizando inteligencia artificial y procesamiento de lenguaje natural, ALIE permite a los estudiantes obtener respuestas rápidas y precisas a sus dudas académicas, optimizando así su experiencia educativa y el acceso a recursos importantes, a la vez que se reduce la carga administrativa. Esta organización contiene repositorios dedicados al desarrollo, despliegue y administración de ALIE, organizados en varias áreas clave.
 
 ## Repositorios
