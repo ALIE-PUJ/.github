@@ -19,3 +19,7 @@ ALIE es una solución integral desarrollada para mejorar la gestión de consulta
 - [**ALIE_DinD**](https://github.com/ALIE-PUJ/ALIE_DinD): Almacena certificados y configuraciones de seguridad necesarios para el despliegue de la aplicación en entornos controlados.
 
 Cada repositorio está diseñado para contribuir de manera integral a la funcionalidad, eficiencia y escalabilidad de ALIE.
+
+Así mismo, puede encontrar el modelo de lenguaje refinado (ALIE-model), basado en *Mistral-7B-Instruct-v0.3* en Hugging Face:
+- **Modelo completo**: [ALIE_Model](https://huggingface.co/luisalejandrobf/ALIE_Model)
+- **Versión cuantizada**: [ALIE_Model-Q4_K_M-GGUF](https://huggingface.co/luisalejandrobf/ALIE_Model-Q4_K_M-GGUF)
