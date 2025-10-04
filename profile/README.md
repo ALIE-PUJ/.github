@@ -23,3 +23,7 @@ Each repository is designed to contribute integrally to the functionality, effic
 Likewise, you can find the refined language model (ALIE-model), based on *Mistral-7B-Instruct-v0.3* on Hugging Face:
 - **Full model**: [ALIE_Model](https://huggingface.co/luisalejandrobf/ALIE_Model)  
 - **Quantized version**: [ALIE_Model-Q4_K_M-GGUF](https://huggingface.co/luisalejandrobf/ALIE_Model-Q4_K_M-GGUF)
+
+---
+
+📄 **Full thesis available at:** [Pontificia Universidad Javeriana Repository](https://repository.javeriana.edu.co/items/15731e49-30f2-493b-b668-ba54d178b641)
